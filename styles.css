@@ -1,3 +1,13 @@
 body{
     background-color: #f0f0f0;
 }
+header{
+    background-color: #fff;
+    padding: 5px;
+}
+#title{
+text-align: center;
+}
+header p{
+    text-align: center;
+}
